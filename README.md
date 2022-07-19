@@ -1,2 +1,2 @@
-# CS_Library
-Used to store computer science and technology professional learning materials
+# Git_test
+Used to practice using Git
